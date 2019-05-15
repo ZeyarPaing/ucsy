@@ -13,7 +13,7 @@ html body {
 .nav-pos-fix {
     width: 100%;
     position: fixed !important;
-    z-index: 2;
+    z-index: 5;
     background-color: #168853 !important;
 }
 .nav-item {
