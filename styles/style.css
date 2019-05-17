@@ -75,12 +75,7 @@ html body {
     background-repeat: no-repeat;
     display: table;
     background-size: cover;
-    background-attachment: fixed;
-}
-@media screen and (max-width:768px) {
-    .back {
-       background-attachment:scroll;}
-}
+ }
 .logo {
     width: 100%; 
     display: table;  
