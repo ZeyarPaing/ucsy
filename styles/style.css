@@ -75,6 +75,7 @@ html body {
     background-repeat: no-repeat;
     display: table;
     background-size: cover;
+    background-attachment: fixed;
  }
 .logo {
     width: 100%; 
