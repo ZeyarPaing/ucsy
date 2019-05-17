@@ -1,5 +1,26 @@
 
 @font-face {
+font-family: 'Pyidaungsu Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Pyidaungsu Regular'), url('Pyidaungsu Regular.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Pyidaungsu Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Pyidaungsu Bold'), url('Pyidaungsu Bold.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Myanmar3';
+font-style: normal;
+font-weight: normal;
+src: local('Myanmar3'), url('Myanmar3.woff') format('woff');
+}
+
+@font-face {
 font-family: 'Bahnschrift';
 font-style: normal;
 font-weight: normal;
