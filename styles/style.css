@@ -639,7 +639,7 @@ hr.uline2 {
     padding-left: 4px;
 }
 .input-group {
-    width: 320px;
+    max-width: 350px;
     text-align: center !important;
     margin: auto;
 }
