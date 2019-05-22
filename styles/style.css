@@ -648,6 +648,7 @@ hr.uline2 {
 .input-group-field {
     font-size:14px;
     padding-left: 4px;
+    width: 120px;
 }
 .input-group {
     width: 320px;
