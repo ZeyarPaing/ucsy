@@ -864,9 +864,7 @@ hr.uline2 {
     .get, .history-header, .newshead, .head-teacher, .mission {
         font-size: 160%;
     }
-    .input-group {
-        width: 460px;
-    }
+    
 }
 @media (min-width:768px) {
     .navbar-brand {
