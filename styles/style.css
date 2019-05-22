@@ -864,6 +864,9 @@ hr.uline2 {
     .get, .history-header, .newshead, .head-teacher, .mission {
         font-size: 160%;
     }
+    .input-group-field {
+     width: 120px;
+ }
     
 }
 @media (min-width:768px) {
