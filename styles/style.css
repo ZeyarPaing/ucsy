@@ -734,6 +734,7 @@ hr.uline2 {
         font-weight: 500;
         margin-bottom: 7%;
     }
+    
 }
 @media only screen and (max-width:560px){
     .header1 {
@@ -862,6 +863,9 @@ hr.uline2 {
     }
     .get, .history-header, .newshead, .head-teacher, .mission {
         font-size: 160%;
+    }
+    .input-group {
+        width: 460px;
     }
 }
 @media (min-width:768px) {
