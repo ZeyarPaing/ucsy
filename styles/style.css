@@ -589,19 +589,19 @@ hr.uline2 {
     
 }
 .history-sep {
-    border-left: 2px solid #ffffff;
+    border-left: 2px solid #000;
     font-family: var(--lato);
+    font-size: 1.2rem;
 }
 #history {
     padding: 25px 26px 40px 15px;
-    background: url('titpotepin2.jpg') no-repeat;
-    color: #fff;
+    color: #000;
    
 }
 .history-header {
     padding-top: 40px;
-    font-family: var(--headerfont);
-    font-weight: 560;
+    font-family: Montserrat;
+    font-weight: 700;
     font-size: 2.3rem;
     text-align: center;
 }
@@ -617,6 +617,7 @@ hr.uline2 {
 /*Footer*/
 #footer {
     background: #333;
+    position: relative;
 }
 .button {
     margin-bottom: 0;
@@ -640,7 +641,7 @@ hr.uline2 {
 
 }
 .igt {
-    border: 5px solid rgb(247, 243, 243) ;
+    border: 2px solid rgb(184, 182, 182) ;
     border-radius: 0;
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
@@ -648,7 +649,8 @@ hr.uline2 {
 .input-group-field {
     font-size:14px;
     padding-left: 4px;
-    width: 135px;
+    
+    
 }
 .input-group {
     width: 320px;
@@ -700,6 +702,9 @@ hr.uline2 {
     padding: 20px;
     font-size: 0.8rem;
     font-family: var(--lato);
+}
+.cen {
+    text-align: center !important;
 }
 
 /*Media Query*/
@@ -866,9 +871,8 @@ hr.uline2 {
         font-size: 160%;
     }
     .input-group-field {
-     width: 120px;
+    width: 120px;
  }
-    
 }
 @media (min-width:768px) {
     .navbar-brand {
